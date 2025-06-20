@@ -43,10 +43,10 @@ Welcome to my GitHub profile! I'm an **Aspiring Clinical SAS Programmer**, equip
 
 ### 🔹 **📁 R-Programming**  
 📈 R Programming based projects  
-- Demographic Summary Table: Generated treatment-based summary statistics.
-- Clinical Report RTF: Automated formatted RTF clinical summaries. 
+- [Demographic Summary Table: Generated treatment-based summary statistics.](https://github.com/Aishwaryac4297/R-Project-Demographic-Summary-Table-Creation)
+- [Clinical Report RTF: Automated formatted RTF clinical summaries.](https://github.com/Aishwaryac4297/R-project-Clinical-RTF-Table-Generation) 
 - [Gene Expression Analysis: Visualized and cleaned gene expression data.](https://github.com/Aishwaryac4297/R-Project-Gene-Expression-Analysis)  
-- Data Cleaning: Processed and validated clinical datasets.
+- [Data Cleaning: Processed and validated clinical datasets.](https://github.com/Aishwaryac4297/R-Project-Demographic-Data-Cleaning)
 
 ---
 
