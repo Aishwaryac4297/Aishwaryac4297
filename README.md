@@ -1,5 +1,5 @@
 
-![Image](https://github.com/user-attachments/assets/ad0716ff-bd06-45fc-90cd-63b188c09d41)
+![Image](https://github.com/user-attachments/assets/9efb6148-8c19-41bd-b083-bbedace02c05)
 
 # 👋 Hello! I'm Aishwarya C
 
