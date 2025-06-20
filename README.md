@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm an **Aspiring Clinical SAS Programmer**, equip
 
 ### 🔹 **📁 CDISC SDTM + ADaM Creation (SAS)**  
 🧾 Raw clinical datasets → SDTM domains → ADaM datasets  
-- Created SDTM datasets: `DM`,`EX`from raw data using CDISC SDTMIG.📂 
+- Created SDTM datasets: `DM`,`EX`from raw data using CDISC SDTMIG.📂 [View SAS-SDTM-DM-Project](https://github.com/Aishwaryac4297/SAS-SDTM-DM-Project)
 - Derived ADaM datasets
 
 ### 🔹 **📁 TLF Generation & Reporting (SAS)**  
