@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm an **Aspiring Clinical SAS Programmer**, equip
 - [Derived ADaM dataset](https://github.com/Aishwaryac4297/SAS-ADaM-ADSL-Project)
 
 ### 🔹 **📁 TLF Generation & Reporting (SAS)**  
-📊 Clinical Summary Table Generation  
+📊 [Clinical Summary Table Generation](https://github.com/Aishwaryac4297/SAS-TLF-Generation-Project)  
 - Produced summary tables.  
 - Automated using **SAS Macros** and styled with `ODS RTF/PDF` for regulatory-ready output.  
 - Used `PROC REPORT`, `PROC MEANS`, `PROC FREQ`, and `PROC TRANSPOSE`.
